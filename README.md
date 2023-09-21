@@ -3,10 +3,10 @@
 - 📚 Estou cursando Sistemas de Informação pela UFOP.
 
 <a href="https://github.com/emanuelleferraz">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=emanuelleferraz&show_icons=true&theme=merko" />
+  <img height=180cm align="center" src="https://github-readme-stats.vercel.app/api?username=emanuelleferraz&show_icons=true&theme=merko" />
 </a>
 <a href="https://github.com/emanuelleferraz">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=emanuelleferraz&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=merko" />
+  <img height=180cm align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=emanuelleferraz&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=merko" />
 </a>
 
 ## Linguagens e Ferramentas
