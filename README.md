@@ -1,6 +1,7 @@
 ## Olá!!! Eu sou a Manu Ferraz 🙋‍♀️
 
 - 📚 Estou cursando Sistemas de Informação pela UFOP.
+- 👩‍💻 Apaixonada por tecnologia, música, esportes e sagas de fantasia.
 
 <a href="https://github.com/emanuelleferraz">
   <img height=180cm align="center" src="https://github-readme-stats.vercel.app/api?username=emanuelleferraz&show_icons=true&theme=merko" />
